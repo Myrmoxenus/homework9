@@ -10,6 +10,7 @@
 4. [License](#license)
 5. [Tests](#tests)
 6. [Questions](#questions)
+7. [Screenshot](#screenshot)
 
 ## Description:
 Generates an HTML file displaying a roster of employees with information collected from the user using Inquirer. App was developed with test driven development through use of jest.
@@ -26,5 +27,5 @@ MIT
 ## Questions: 
  Further questions can be directed to my e-mail at  scopocira@gmail.com
 
-Screenshot: 
+## Screenshot: 
 ![Screenshot of Application](Images/screenshot.png)
