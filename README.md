@@ -17,17 +17,14 @@ Generates an HTML file displaying a roster of employees with information collect
 ## Installation: 
 Requires npm dependencies jest and Inquirer. Application to be run with node.js.
 
-## Usage:
-Used to generate an HTML file displaying a roster of employees with information collected from the user using Inquirer.
-
 ## License: 
 MIT
 
 ## Contributing: 
 [Myrmoxenus](https://github.com/Myrmoxenus)
 
-## Tests: 
-Not sure what this section is for.
-
 ## Questions: 
  Further questions can be directed to my e-mail at  scopocira@gmail.com
+
+Screenshot: 
+![Screenshot of Application](Images/screenshot.png)
